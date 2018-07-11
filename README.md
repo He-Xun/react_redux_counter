@@ -8,4 +8,4 @@ redux applyMiddleware 中间件的使用（redux-devtools-extension，redux-logg
 
 create-react-app中hmr（hot-module-reload） 热加载的使用
 
-使用了 custom-react-scripts 来支持装饰器  和 state0  sass  less
+使用了 custom-react-scripts 来支持装饰器  和 stage0  sass  less
